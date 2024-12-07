@@ -20,6 +20,21 @@ This project is an access control system using facial recognition with an Arduin
 - Include a solenoid door lock to grant or deny physical access based on recognition results.
 - Employ a confidence-based rejection system to mark unrecognized faces and deny access.
 
+
+## Edge System Planning
+### Edge System Diagram
+![edge system](assets\edge_diagram.png)
+
+### System State Diagram
+- **Edge Gateway**
+
+![edge gateway state diagram](assets\state_diagram_gateway.png)
+
+- **Edge Device**
+
+![edge device state diagram](assets\state_diagram_doorlock.png)
+
+
 ## Prerequisites
 ### Component Preparation
 
@@ -28,19 +43,14 @@ This project is an access control system using facial recognition with an Arduin
 - **Solenoid Door Lock**: Secures the door, unlocking only for authorized individuals.
 - **Camera**: Captures facial images for recognition.
 - **Buzzer**: Provides audio alerts for access status (granted/denied).
-- **12V Power Supply**: Powers the solenoid door lock and other components.
+- **12V Power Supply**: External power for solenoid door lock.
+
+### Datasheet Arduino Uno R3
+![arduino uno r3 datasheet](assets\ArduinoUNOrev3.png)
 
 ### System Schematic
-![WhatsApp Image 2024-12-02 at 12 40 34_531ea401](https://github.com/user-attachments/assets/1bf02ffb-beda-4627-8bf4-b76df8da306c)
+![system schematic](assets\Schematic_HomeSecurity.png)
 
-### System State Diagram
-- **Edge Gateway**
-
-![image](https://github.com/user-attachments/assets/b05f42f8-f6e7-4f43-9655-ecdf67832d53)
-
-- **Edge Device**
-
-![image](https://github.com/user-attachments/assets/be3ec3f7-22bb-42bf-8d1f-de9076a42344)
 
 ## Demo and Evaluation
 - **Setup**: Connect all components as per the wiring diagram and run the final code blok on the .ipynb file.

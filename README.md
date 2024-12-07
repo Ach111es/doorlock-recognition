@@ -23,16 +23,16 @@ This project is an access control system using facial recognition with an Arduin
 
 ## Edge System Planning
 ### Edge System Diagram
-![edge system](assets\edge_diagram.png)
+![edge system](https://github.com/Ach111es/doorlock-recognition/blob/f8b011c886d6996db2c93a42fb08dda7257aa94b/assets/edge_diagram.png)
 
 ### System State Diagram
 - **Edge Gateway**
 
-![edge gateway state diagram](assets\state_diagram_gateway.png)
+![edge gateway state diagram](https://github.com/Ach111es/doorlock-recognition/blob/f8b011c886d6996db2c93a42fb08dda7257aa94b/assets/state_diagram_gateway.png)
 
 - **Edge Device**
 
-![edge device state diagram](assets\state_diagram_doorlock.png)
+![edge device state diagram](https://github.com/Ach111es/doorlock-recognition/blob/f8b011c886d6996db2c93a42fb08dda7257aa94b/assets/state_diagram_doorlock.png)
 
 
 ## Prerequisites
@@ -46,10 +46,10 @@ This project is an access control system using facial recognition with an Arduin
 - **12V Power Supply**: External power for solenoid door lock.
 
 ### Datasheet Arduino Uno R3
-![arduino uno r3 datasheet](assets\ArduinoUNOrev3.png)
+![arduino uno r3 datasheet](https://github.com/Ach111es/doorlock-recognition/blob/f8b011c886d6996db2c93a42fb08dda7257aa94b/assets/ArduinoUNOrev3.png)
 
 ### System Schematic
-![system schematic](assets\Schematic_HomeSecurity.png)
+![system schematic](https://github.com/Ach111es/doorlock-recognition/blob/f8b011c886d6996db2c93a42fb08dda7257aa94b/assets/Schematic_HomeSecurity.png)
 
 
 ## Demo and Evaluation

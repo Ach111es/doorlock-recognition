@@ -1,4 +1,5 @@
 # Automatic Door Lock Security System with Face Recognition Using MobileNetV3 Small and Arduino UNO
+![WhatsApp Image 2024-12-07 at 19 18 07_944e0310](https://github.com/user-attachments/assets/de7167b2-3a39-469e-84ac-ed8e91d08938)
 
 ## Project Domain
 This project is an access control system using facial recognition with an Arduino UNO and a MobileNetV3 Small based model architecture.

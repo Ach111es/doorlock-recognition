@@ -32,7 +32,6 @@ This project is an access control system using facial recognition with an Arduin
 
 - **Edge Device**
 
-*Click the embedded youtube video below to watch
 ![edge device state diagram](https://github.com/Ach111es/doorlock-recognition/blob/f8b011c886d6996db2c93a42fb08dda7257aa94b/assets/state_diagram_doorlock.png)
 
 
@@ -65,4 +64,5 @@ This project is an access control system using facial recognition with an Arduin
 
 ### Door Lock System
 
+*Click the embedded youtube video below to watch
 [![Demo Video](https://img.youtube.com/vi/VgoxX6TS_PM/0.jpg)](https://www.youtube.com/watch?v=VgoxX6TS_PM)

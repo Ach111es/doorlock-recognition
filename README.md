@@ -65,4 +65,5 @@ This project is an access control system using facial recognition with an Arduin
 ### Door Lock System
 
 *Click the embedded youtube video below to watch
+
 [![Demo Video](https://img.youtube.com/vi/VgoxX6TS_PM/0.jpg)](https://www.youtube.com/watch?v=VgoxX6TS_PM)
